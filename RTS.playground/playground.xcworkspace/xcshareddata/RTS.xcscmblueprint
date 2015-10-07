@@ -7,14 +7,14 @@
     "591E9DE42D2BEEFD8F06A2887A257FB5A43D0945" : 0,
     "780789C08A71DBC3908EE339A3569284183C4B5E" : 0
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E3F44B4D-7067-49AC-A262-96D6879DABAE",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "13627D52-327C-451B-8722-A6A32D9D6629",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "591E9DE42D2BEEFD8F06A2887A257FB5A43D0945" : "",
     "780789C08A71DBC3908EE339A3569284183C4B5E" : "RTS\/"
   },
-  "DVTSourceControlWorkspaceBlueprintNameKey" : "RTS_0",
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RTS",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RTS_0.playground",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RTS.playground",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Saki-Hit-Out\/RTS.git",
