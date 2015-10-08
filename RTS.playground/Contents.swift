@@ -12,8 +12,8 @@ var fallOrMiss:Bool
 var Point:Int = 0
 
 
- //BreakBall()
-
+ BreakBall()
+resultBall()
 //----------------手順------------------------
 func BreakBall(){
     print("ブレイク後どうなりましたか?")
@@ -29,7 +29,11 @@ func BreakBall(){
     print("ミスをするか取りきるまでプレイしてください.")
     
 }
+
+
+
 //okボタン
+func resultBall(){
 print("球を取りきりましたか？それともミスをしましたか？")
 //球を取りきったか台上に球は残っていたかのbool判定
     //if true
@@ -41,4 +45,4 @@ print("球を取りきりましたか？それともミスをしましたか？"
         print("対戦相手に交代してください")
         ining++
 
-
+}
